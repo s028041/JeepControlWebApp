@@ -19,4 +19,5 @@ public interface EngineListener {
     int onMediumSpeed();
     int onFastSpeed();
     int onFullSpeed();
+//int speedUp();
 }
